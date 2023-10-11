@@ -1,3 +1,3 @@
 # Liam Stamper
-## Contact Me
+### Contact Me
 - 📧 [liam.stamper@gmail.com](mailto:liam.stamper@gmail.com)
