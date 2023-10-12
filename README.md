@@ -1,6 +1,6 @@
 # Liam Stamper
 ## About Me:
-* Studying Computer Science with a Mathematics Minor at the Unviersity of Iowa (anticipated graduation June 2024)
+* Studying Computer Science and Mathematics at the Unviersity of Iowa (anticipated graduation June 2024)
 ## Contact Me:
 * 📧 [liam.stamper@gmail.com](mailto:liam.stamper@gmail.com)
 
