@@ -1,7 +1,7 @@
 # Liam Stamper
 
 ## About Me:
-* :mortar_board: Studying Computer Science and Mathematics at the Unviersity of Iowa (anticipated graduation 2024)
+* :mortar_board: Studying Computer Science and Mathematics at the Unviersity of Iowa
   
 ## Contact Me:
 * [liam.stamper@gmail.com](mailto:liam.stamper@gmail.com)
