@@ -7,7 +7,7 @@
 Hello! I'm Liam, a dedicated Computer Science and Mathematics student at the University of Iowa with a passion for coding and problem-solving. I specialize in building full stack applications that are both functional and user-friendly. My academic background and project work reflect a commitment to learning and applying modern tech skills to real-world problems.
 
 ### 🎓 Education
-- **B.S. in Computer Science and Mathematics**
+- **B.A. in Computer Science With a Minor in Mathematics**
   - University of Iowa, Expected Graduation December 2024
   - Relevant Courses: Data Structures, Algorithms, Software Development, Linear Algebra
 
@@ -18,18 +18,12 @@ Hello! I'm Liam, a dedicated Computer Science and Mathematics student at the Uni
 - **Others**: Docker, AWS
 
 ### 🛠️ Projects
-#### Neural Net from Scratch
-- **Description**: Implemented a neural network in Python to classify handwritten digits from the MNIST dataset.
-- **Technologies**: Python, NumPy, Matplotlib
-- **Learnings**: Gained a deep understanding of the inner workings of neural networks and backpropagation.
-
 #### GitHub Readme Preview for VS Code
 - **Description**: Created a VS Code extension for seamless README.md previews, simulating the GitHub interface.
 - **Technologies**: TypeScript, HTML/CSS
 
 #### CellScope
 - **Description**: Implemented a full stack application to count and report cells in bone marrow scans. Done in colaboratation with the University of Iowa to be used in a reseach setting.
-  
 - **Technologies**: Python, OpenCV, HTML/CSS, Flask
 
 
