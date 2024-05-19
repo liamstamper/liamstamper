@@ -32,7 +32,7 @@ _For more projects, visit [my GitHub portfolio](https://github.com/liamstamper).
 
 ### 📬 Connect With Me
 - **LinkedIn**: [liamstamper](https://www.linkedin.com/in/liam-stamper-96057829b/)
-- **Email**: liamstamper@gmail.com
+- **Email**: liam.stamper@gmail.com
 
 I'm currently looking for internship opportunities where I can contribute and further develop my skills. If you have an opportunity or a project that you think I'd be a good fit for, please don't hesitate to reach out!
 
