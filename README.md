@@ -4,12 +4,12 @@
 
 ## Aspiring Software Developer | Computer Science and Math Student
 
-Hello! I'm Liam, a dedicated Computer Science and Mathematics student at the University of Iowa with a passion for coding and problem-solving. I specialize in building full stack applications that are both functional and user-friendly. My academic background and project work reflect a commitment to learning and applying modern tech skills to real-world problems.
+Hello! I'm Liam, a dedicated Computer Science and Mathematics student at the University of Iowa with a passion for coding and problem-solving. 
 
 ### 🎓 Education
 - **B.A. in Computer Science With a Minor in Mathematics**
   - University of Iowa, Expected Graduation December 2024
-  - Relevant Courses: Data Structures, Algorithms, Software Development, Linear Algebra
+  - Relevant Courses: Software Development, Algorithms, Data Structures, Linear Algebra
 
 ### 💻 Technical Skills
 - **Languages**: Python, Julia, Java, JavaScript, HTML/CSS, Tailwind CSS, PHP, JSON
