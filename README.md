@@ -17,24 +17,11 @@ Hello! I'm Liam, a dedicated Computer Science and Mathematics student at the Uni
 - **Databases**: MySQL, MongoDB
 - **Others**: Docker, AWS
 
-### 🛠️ Projects
-#### GitHub Readme Preview for VS Code
-- **Description**: Created a VS Code extension for seamless README.md previews, simulating the GitHub interface.
-- **Technologies**: TypeScript, HTML/CSS
-
-#### CellScope
-- **Description**: Implemented a full stack application to count and report cells in bone marrow scans. Done in colaboratation with the University of Iowa to be used in a reseach setting.
-- **Technologies**: Python, OpenCV, HTML/CSS, Flask
-
-
-
-_For more projects, visit [my GitHub portfolio](https://github.com/liamstamper)._
+_For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=repositories)._
 
 ### 📬 Connect With Me
 - **LinkedIn**: [liamstamper](https://www.linkedin.com/in/liam-stamper-96057829b/)
 - **Email**: liam.stamper@gmail.com
-
-I'm currently looking for internship opportunities where I can contribute and further develop my skills. If you have an opportunity or a project that you think I'd be a good fit for, please don't hesitate to reach out!
 
 Thank you for visiting my profile!
 
