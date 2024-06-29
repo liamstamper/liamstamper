@@ -25,4 +25,5 @@ _For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=rep
 
 Thank you for visiting my profile!
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=liamstamper&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
 ---
