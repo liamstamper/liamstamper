@@ -12,7 +12,7 @@ Hello! I'm Liam, a Computer Science and Mathematics student at the University of
   - Relevant Courses: Software Development, Algorithms, Data Structures, Linear Algebra
 
 ### 💻 Technical Skills
-- **Languages**: JavaScript, TypeScript, Python, Java, Tailwind
+- **Languages**: JavaScript, TypeScript, Tailwind, Python, Java, Julia
 - **Frameworks/Tools**: React, Node.js, TensorFlow, Flask
 - **Databases**: MySQL, PostgreSQL
 - **Others**: Docker, AWS
