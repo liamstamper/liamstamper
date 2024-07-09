@@ -15,7 +15,7 @@ Hello! I'm Liam, a Computer Science and Mathematics student at the University of
 - **Languages**: JavaScript, TypeScript, Tailwind, Python, Java, Julia
 - **Frameworks/Tools**: React, Node.js, TensorFlow, Flask
 - **Databases**: MySQL, PostgreSQL
-- **Others**: Docker, AWS
+
 
 _For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=repositories)._
 
@@ -25,5 +25,5 @@ _For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=rep
 
 Thank you for visiting my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=liamstamper&theme=soft-green&exclude_days=Sat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=liamstamper&theme=soft-green)](https://git.io/streak-stats)
 ---
