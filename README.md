@@ -9,12 +9,16 @@ Hello! I'm Liam, a Computer Science and Mathematics student at the University of
 ### 🎓 Education
 - **B.A. in Computer Science With a Minor in Mathematics**
   - University of Iowa, Expected Graduation December 2024
-  - Relevant Courses: Software Development, Algorithms, Data Structures, Linear Algebra
+  - Relevant Courses: Software Development, Algorithms, Data Structures, Calculus I-III, Matrix/Linear Algebra, Mathematics of Machine Learing, Numerical Analysis 
 
-### 💻 Technical Skills
-- **Languages**: JavaScript, TypeScript, Tailwind, Python, Java, Julia
-- **Frameworks/Tools**: React, Node.js, TensorFlow, Flask
-- **Databases**: MySQL, PostgreSQL
+### 💻 Experience
+- **Research Assistant (Python)** - The University of Iowa (December 2024 - Present)
+  * Developed and implemented custom algorithms for analyzing medical imaging, significantly enhancing data processing speed
+- **Frontend Developer (React Tailwind)** - Seatstock (August 2023 - December 2023)
+  * Architected and implemented component-based front-end structures and custom hooks, optimizing load times and overall performance
+- **Web Developer Intern (Html JavaScript)** - Quality Manufaturing Corporation (Summer 2022)
+  * Collaborated with an interdisciplinary team to deploy dynamic form applications, digitizing part requests and streamlining workflow processes
+
 
 
 _For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=repositories)._
