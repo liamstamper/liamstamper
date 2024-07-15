@@ -2,9 +2,13 @@
 
 # Liam Stamper
 
-## Aspiring Software Developer | Computer Science and Math Student
+### Computer Science and Math Student | The University of Iowa
 
-Hello! I'm Liam, a Computer Science and Mathematics student at the University of Iowa with a passion for coding and problem-solving. 
+Fall graduating senior at The University of Iowa with a focus on Artificial Intelligence and Machine Learning. Previously interned at
+Quality Manufacturing Corporation summer 2022 as a full stack engineer and in 2023 built and integrated frontend components in
+React and Tailwind for Seatstock, a P2P ticket sales startup. 
+
+### [Liam-Stamper-Resume](https://www.hostize.com/r/_JlumCDQit/liam-stamper-resume-pdf)
 
 ### 🎓 Education
 - **B.A. in Computer Science With a Minor in Mathematics**
@@ -21,7 +25,8 @@ Hello! I'm Liam, a Computer Science and Mathematics student at the University of
 
 
 
-_For projects visit [my GitHub portfolio](https://github.com/liamstamper?tab=repositories)._
+ _For projects take a look at [my repositories](https://github.com/liamstamper?tab=repositories)._
+
 
 ### 📬 Connect With Me
 - **LinkedIn**: [liamstamper](https://www.linkedin.com/in/liam-stamper-96057829b/)
