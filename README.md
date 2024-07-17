@@ -8,7 +8,8 @@ Fall graduating senior at The University of Iowa with a focus on Artificial Inte
 Quality Manufacturing Corporation summer 2022 as a full stack engineer and in 2023 built and integrated frontend components in
 React and Tailwind for Seatstock, a P2P ticket sales startup. 
 
-### <a href="https://www.hostize.com/r/_JlumCDQit/liam-stamper-resume-pdf" target="_blank">Liam-Stamper-Resume</a>
+<a href="https://www.hostize.com/r/_JlumCDQit/liam-stamper-resume-pdf" target="_blank">Liam-Stamper-Resume</a>
+
 
 ### 🎓 Education
 - **B.A. in Computer Science With a Minor in Mathematics**
