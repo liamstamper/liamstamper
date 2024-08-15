@@ -1,33 +1,61 @@
 ---
 
 # Liam Stamper
-
 ## Computer Science and Math Student | The University of Iowa
 [liamstamper.com](https://liamstamper.com) | [liamstamper-resume](https://liamstamper.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/liamstamper/) | liam.stamper@gmail.com
 
-Fall graduating senior at The University of  Iowa with a focus on Artificial Intelligence and Machine Learning. Previously interned at Quality Manufacturing Corporation summer 2022 as a full stack engineer. In 2023 I built and integrated frontend components in React and Tailwind for Seatstock, a  P2P ticket sales startup. My academic projects have included developing predictive models as a University of Iowa research assistant using OpenCV.
-
-
+Fall Graduating Senior at The University of  Iowa with a focus on Artificial Intelligence and Machine Learning. In 2024, worked as a research assistant at the University of Iowa to develop predictive models using OpenCV. Worked in 2023 as a frontend developer using React and Tailwind for SeatStock, a ticket marketplace startup in Iowa City. Interned summer 2022 at Quality Manufacturing Corporation as a full stack engineer.
 
 ## 🎓 Education
-### **The University of Iowa | Computer Science With a Minor in Mathematics**
-  - Relevant Courses: Software Development, Algorithms, Data Structures, Calculus I-III, Matrix/Linear Algebra, Mathematics of Machine Learing, Numerical Analysis, Computer Science I-III
-  - Event Planner for the Association for Computing Machinery (ACM), IowaHackathon 2023 Award Winner
+
+<details>
+<summary><b>The University of Iowa | BA in Computer Science, Minor in Mathematics</b></summary>
+
+- **Relevant Courses:**
+  - Computer Science I-III (Python, C++, Java)
+  - Software Development (Java, JUnit)
+  - Algorithms (Python)
+  - Numerical Analysis (Julia)
+  - Calculus I-III
+  - Matrix Algebra
+  - Mathematics of Machine Learning
 
 
-### 💻 Experience
-### **Research Assistant (Python, OpenCV)** - The University of Iowa (December 2024 - Present)
-  * Developed and implemented custom algorithms for analyzing medical imaging, significantly enhancing data processing speed
-### **Frontend Developer (React, Tailwind)** - Seatstock (August 2023 - December 2023)
-  * Architected and implemented component-based front-end structures and custom hooks, optimizing load times and overall performance
-### **Web Developer Intern (JavaScript, Html/Css, MySQL)** - Quality Manufaturing Corporation (Summer 2022)
-  * Collaborated within a small team to deploy dynamic form applications, digitizing part requests and streamlining workflow processes
+- **Achievements:**
+  - Event Planner for the Association for Computing Machinery (ACM)
+  - IowaHackathon 2023 Award Winner
+
+</details>
 
 
+## 💻 Experience
 
- _For projects take a look at [my repositories](https://github.com/liamstamper?tab=repositories)._
+<details>
+<summary><b>The University of Iowa - Research Assistant (Python, OpenCV)</b> (December 2024 - Present)</summary>
 
-Thank you for visiting my profile!
+- Leveraged Python and OpenCV for precise analysis and quantification of cells in bone marrow scans
+- Collaborated across disciplines to refine cell counting protocols, achieving 60%  faster data collection 
+
+
+</details>
+
+<details>
+<summary><b>Seatstock - Frontend Developer (React, Tailwind)</b> (August 2023 - December 2023)</summary>
+
+- Implemented component-based frontend structures and custom hooks, optimizing load times and performance         
+- Collaborated with backend developers and designers to deliver cohesive product features under tight deadlines
+
+
+</details>
+
+<details>
+<summary><b>Quality Manufacturing Corporation - Web Developer Intern (JavaScript, HTML/CSS, MySQL)</b> (Summer 2022)</summary>
+
+- Collaborated within an interdisciplinary team to deploy dynamic form applications, digitizing part requests and streamlining workflow processes.
+
+</details>
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=liamstamper&theme=soft-green)](https://git.io/streak-stats)
 ---
