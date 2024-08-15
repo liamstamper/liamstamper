@@ -1,10 +1,12 @@
----
-
 # Liam Stamper
 ## Computer Science and Math Student | The University of Iowa
-[liamstamper.com](https://liamstamper.com) | [liamstamper-resume](https://liamstamper.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/liamstamper/) | liam.stamper@gmail.com
+[Website](https://liamstamper.com) | [Resume](https://liamstamper.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/liamstamper/) | liam.stamper@gmail.com
 
-Fall Graduating Senior at The University of  Iowa with a focus on Artificial Intelligence and Machine Learning. In 2024, worked as a research assistant at the University of Iowa to develop predictive models using OpenCV. Worked in 2023 as a frontend developer using React and Tailwind for SeatStock, a ticket marketplace startup in Iowa City. Interned summer 2022 at Quality Manufacturing Corporation as a full stack engineer.
+## About Me:
+- Fall Graduating Senior at the University of Iowa seeking new grad position.
+- Passionate about harnessing artificial intelligence to solve real-world problems.
+- Experienced in computational research and full stack development.
+
 
 ## 🎓 Education
 
@@ -58,4 +60,4 @@ Fall Graduating Senior at The University of  Iowa with a focus on Artificial Int
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=liamstamper&theme=soft-green)](https://git.io/streak-stats)
----
+
