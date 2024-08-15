@@ -3,10 +3,7 @@
 [Website](https://liamstamper.com) | [Resume](https://liamstamper.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/liamstamper/) | liam.stamper@gmail.com
 
 ## About Me:
-- Fall Graduating Senior at the University of Iowa seeking new grad position.
-- Passionate about harnessing artificial intelligence to solve real-world problems.
-- Experienced in computational research and full stack development.
-
+Fall Graduating Senior at the University of Iowa seeking new grad position. Experienced in computational research and full stack development. Passionate about harnessing artificial intelligence to solve real-world problems. 
 
 ## 🎓 Education
 
