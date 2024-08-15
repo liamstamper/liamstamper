@@ -5,8 +5,7 @@
 ## Computer Science and Math Student | The University of Iowa
 [liamstamper.com](https://liamstamper.com) | [liamstamper-resume](https://liamstamper.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/liamstamper/) | liam.stamper@gmail.com
 
-Fall graduating senior at The University of  Iowa with a focus on Artificial Intelligence and Machine Learning. Previously interned at Quality Manufacturing Corporation summer 2022 as a full stack engineer. In 2023 I built and integrated frontend components in React and Tailwind for Seatstock, a  P2P ticket sales startup. My academic projects have included developing predictive models as a University of Iowa research assistant using OpenCV,  a text-based rpg in Python using Tkinter, and building a digital magazine using React and Tailwind. 
-
+Fall graduating senior at The University of  Iowa with a focus on Artificial Intelligence and Machine Learning. Previously interned at Quality Manufacturing Corporation summer 2022 as a full stack engineer. In 2023 I built and integrated frontend components in React and Tailwind for Seatstock, a  P2P ticket sales startup. My academic projects have included developing predictive models as a University of Iowa research assistant using OpenCV.
 
 
 
