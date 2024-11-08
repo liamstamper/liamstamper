@@ -2,6 +2,8 @@
 ---
 I'm a Full-Stack Developer in the Iowa City area.
 
+
+
 More about me: [liamstamper-portfolio.vercel.app](https://liamstamper-portfolio.vercel.app)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamstamper&show_icons=true&theme=radical)
@@ -20,3 +22,4 @@ More about me: [liamstamper-portfolio.vercel.app](https://liamstamper-portfolio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamstamper)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liam.stamper@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=liamstamper&color=blue)
