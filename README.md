@@ -1,6 +1,6 @@
 # Hi 👋 I'm Liam
 ---
-I'm a Full Stack Web Developer in the Iowa City area.
+I'm a Full-Stack Developer in the Iowa City area.
 
 More about me: [liamstamper-portfolio.vercel.app](https://liamstamper-portfolio.vercel.app)
 
