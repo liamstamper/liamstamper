@@ -5,8 +5,6 @@ I'm a Full-Stack Developer in the Iowa City area.
 
 More about me: [liamstamper.vercel.app](https://liamstamper.vercel.app) 
 
-[liamstamper-portfolio.vercel.app](https://liamstamper-portfolio.vercel.app)
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamstamper&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamstamper&layout=compact&theme=radical)
 
