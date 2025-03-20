@@ -1,5 +1,5 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamstamper&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamstamper&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liamstamper&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liamstamper&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
