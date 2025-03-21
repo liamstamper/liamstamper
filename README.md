@@ -1,4 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liamstamper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=liamstamper&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liamstamper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
