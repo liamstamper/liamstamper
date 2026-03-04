@@ -1,5 +1,6 @@
 Liam Stamper
-Founding Engineer at AviaryAi (yc22) | NYC
+
+Ex-Founding Engineer at AviaryAi (yc22) | NYC
 
 Stack: Typescript • Nextjs • Python • Fastapi • Rust • Docker
 
